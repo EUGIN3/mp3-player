@@ -1,0 +1,11 @@
+*Needed to install
+
+1. customtkinter
+2. tkinter
+3. mutagen
+4. pygame
+
+pip install customtkinter
+pip install tkinter
+pip install mutagen
+pip install pygame
